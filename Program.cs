@@ -60,7 +60,7 @@ class Program
         double[] cartSubtotal = new double[10];
         int cartCount = 0;
 
-        string choice = "Y"; // ✅ FIX: initialize
+        string choice = "Y"; //
 
         do
         {
@@ -139,7 +139,7 @@ class Program
 
             Console.WriteLine("Added to cart!");
 
-            // ✅ FIXED INPUT HANDLING
+            
             Console.Write("Add another item? (Y/N): ");
             string input = Console.ReadLine();
 
