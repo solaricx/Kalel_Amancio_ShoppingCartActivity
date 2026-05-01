@@ -10,4 +10,4 @@ AI was also used in following ways:
 - Suggest improvements for program structure and logic
 - A guide to request a Pull Request in Github.
 
-The final output reflects the my own understanding, and AI was used only as a guide and learning aid rather than a source of direct copying.
+The final output reflects my own understanding, and AI was used only as a guide and learning aid rather than a source of direct copying.
